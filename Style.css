@@ -36,6 +36,9 @@ body {
     box-shadow:2px 4px 10px gray;
     
 }
+
+
+
 h1{
     color: black;
     font-size: 60;
@@ -111,6 +114,18 @@ h1{
 }
 
 .switch-link:hover {
+    text-decoration: underline;
+    color: red;
+}
+.Forgot-link {
+display: block;
+text-align: right;
+margin-bottom: 15px;
+color: purple;
+text-decoration: none;
+}
+
+.Forgot-link:hover {
     text-decoration: underline;
     color: red;
 }
